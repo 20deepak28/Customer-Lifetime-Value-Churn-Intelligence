@@ -1,0 +1,51 @@
+Feature,Mean_Absolute_SHAP
+num__tenure,0.9196089465130999
+num__MonthlyCharges,0.5506953102374068
+cat__InternetService_Fiber optic,0.35840053578537107
+cat__Contract_Month-to-month,0.34491700704173545
+cat__Contract_Two year,0.3177474359759106
+cat__InternetService_DSL,0.27935034854270535
+num__AdditionalServicesCount,0.20188644117644278
+num__TotalCharges,0.16595424060416006
+cat__TenureGroup_Loyal,0.14200083786738296
+cat__PaperlessBilling_No,0.12877779305989948
+cat__OnlineSecurity_No,0.11701026771201754
+cat__MultipleLines_No,0.1147781414663523
+cat__TenureGroup_Developing,0.10483077966207208
+cat__PaymentMethod_Electronic check,0.10258395905137994
+cat__StreamingMovies_Yes,0.09996869291301219
+cat__TechSupport_No,0.0985827108391575
+cat__StreamingTV_Yes,0.09376639667440981
+cat__Dependents_Yes,0.08557180391022363
+cat__StreamingMovies_No internet service,0.08544079739708385
+cat__TechSupport_No internet service,0.08544079739708385
+cat__StreamingTV_No internet service,0.08544079739708385
+cat__InternetService_No,0.08544079739708385
+cat__DeviceProtection_No internet service,0.08544079739708385
+cat__OnlineBackup_No internet service,0.08544079739708385
+cat__OnlineSecurity_No internet service,0.08544079739708385
+cat__MultipleLines_Yes,0.0792478406556314
+cat__StreamingMovies_No,0.07323401345180869
+cat__StreamingTV_No,0.06801442407787427
+cat__OnlineSecurity_Yes,0.06777139736923064
+cat__PaymentMethod_Bank transfer (automatic),0.062318804020905665
+cat__TenureGroup_Established,0.06098594475577033
+cat__TechSupport_Yes,0.0574585372413192
+cat__OnlineBackup_No,0.055713235292729237
+cat__gender_Female,0.054386254914037306
+cat__Partner_No,0.05407300042262915
+cat__PaymentMethod_Credit card (automatic),0.04806681342657983
+num__SeniorCitizen,0.04387587005975901
+cat__Partner_Yes,0.040024784424496876
+cat__gender_Male,0.03989321171585037
+cat__PaymentMethod_Mailed check,0.03875087074913832
+cat__PaperlessBilling_Yes,0.03802787635127015
+cat__OnlineBackup_Yes,0.025344323235712365
+cat__DeviceProtection_No,0.021124235308623875
+cat__MultipleLines_No phone service,0.019707891941874306
+cat__PhoneService_No,0.019707891941874306
+cat__Contract_One year,0.01311334563099973
+cat__TenureGroup_New,0.011911545560349093
+cat__PhoneService_Yes,0.010696915628099853
+cat__DeviceProtection_Yes,0.006646513296785714
+cat__Dependents_No,0.004942552520600536
